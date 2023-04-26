@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">A JavaScript/TypeScript Developer experienced with MERN Skills. 😎Transforming the web with Web3 and blockchain: Experienced frontend developer specializing in decentralized app development</h3>
-
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/tmHn_IkRBPQiRfDct1C_HoRKVAECKWzjaoMNBbGPHEo/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzQ2MTgw/Mi9zY3JlZW5zaG90/cy80NzUzMDMxL2Rl/c2lnbmVyZ2lmLmdp/Zg.gif"/>
-
+<h3 align="center">A JavaScript/TypeScript Developer experienced with MERN Skills. </h3>
+<p> 😎Transforming the web with Web3 and blockchain: Experienced frontend developer specializing in decentralized app development</p>
 
 
 <p align="left"> <a href="https://twitter.com/abhish_3k" target="blank"><img src="https://img.shields.io/twitter/follow/abhish_3k?logo=twitter&style=for-the-badge" alt="abhish_3k" /></a> </p>
