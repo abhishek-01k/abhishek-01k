@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/tmHn_IkRBPQiRfDct1C_HoRKVAECKWzjaoMNBbGPHEo/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzQ2MTgw/Mi9zY3JlZW5zaG90/cy80NzUzMDMxL2Rl/c2lnbmVyZ2lmLmdp/Zg.gif"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-01k" alt="abhishek-01k" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/abhish_3k" target="blank"><img src="https://img.shields.io/twitter/follow/abhish_3k?logo=twitter&style=for-the-badge" alt="abhish_3k" /></a> </p>
 
