@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek </h1>
 <h3>Full-stack Blockchain Developer || SDE - Push Protocol </h3>
-<p>Currently building on different blockchains and onboarding the next billion users 😎🫡</p>
+<p>Currently building on different blockchains and working on cool stuffs. 3+ years of experience in building differnt products on various blockchains and protocols. I aspire to contribute to blockchain ecosystems as it is FUN 😎🫡</p>
 
 
 <p align="left"> <a href="https://twitter.com/abhish_3k" target="blank"><img src="https://img.shields.io/twitter/follow/abhish_3k?logo=twitter&style=for-the-badge" alt="abhish_3k" /></a> </p>
@@ -11,6 +11,10 @@
 - 🏆 Winner of 10+ Global Hackahtons
 
 - 🫣 To know more about me click here 👉🏻  [LinkTree](https://linktr.ee/abhish3k_01)
+
+- 🎓 Currently Learning about Bitcoin and L2s on Bitcoin
+
+- 🌎 Keep It As Simple As Possible.
 
 - 🤝 Contact me via [Twitter](https://twitter.com/abhish_3k)
 
