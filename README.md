@@ -12,12 +12,6 @@
 
 - 🫣 To know more about me click here 👉🏻  [LinkTree](https://linktr.ee/abhish3k_01)
 
-- 👨‍💻 Currently exploring Bitcoin and other Layer 1 Blockchains.
-
-- 💬 Open for talks about **Blockchain Security, DEFI, DePIN, DAOs and CryptoCurrency**
-
-- ⚡ One line motivation: **Strive to be better than the person you were yesterday.**
-  
 - 🤝 Contact me via [Twitter](https://twitter.com/abhish_3k)
 
 
