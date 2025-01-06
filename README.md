@@ -8,7 +8,7 @@
 
 - 🔭 Currently working as SDE [Push Protocol](https://push.org/)
 
-- 🏆 Winner of 5x Global Hackahtons
+- 🏆 Winner of 10+ Global Hackahtons
 
 - 🫣 To know more about me click here 👉🏻  [LinkTree](https://linktr.ee/abhish3k_01)
 
@@ -25,7 +25,11 @@
 
  - Co-Founder of [TradeSphere](https://ethglobal.com/showcase/tradesphere-5vdrw)
 
- - Builder and Co-Founder of [GasProtocol](https://ethglobal.com/showcase/gas-protocol-46m74)
+ - Won 3rd Prize at Circle Pro-Dev Hackathon in Bangkok organised by AngelHack Team. [Tweet](https://twitter.com/AngelHack/status/1858734010081702227)
+
+ - Grabbed 1st for BOB and 3rd Place for Rootstock in Encode Club hack for building [One-click-BTC-Investments](https://github.com/kamalbuilds/One-click-BTC-Investments)
+
+ - Won BNB Hack at Bangkok by building [TradeX](https://github.com/kamalbuilds/BNB-Trading-Aggregator)
 
  - Fraxtal Points Dashboard for Fraxtal Hackathon - [Link](https://dorahacks.io/buidl/13959)
 
